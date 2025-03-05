@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Charan Goka</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Flask,JavaScript,**
+- 🌱 I’m currently learning **Flask,DevOps**
 
 - 👯 I’m looking to collaborate on **Machine Learning & AI projects**
 
