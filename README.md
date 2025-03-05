@@ -7,13 +7,13 @@
 
 - 🤝 I’m looking for help with **Optimizing ML models for real-time applications**
 
-- 👨‍💻 All of my projects are available at [[My GitHub](https://github.com/saicharan876)]([My GitHub](https://github.com/saicharan876))
+- 👨‍💻 All of my projects are available at [([My GitHub](https://github.com/saicharan876))
 
 - 💬 Ask me about **C++,Verilog, Python, and Machine Learning**
 
 - 📫 How to reach me **[saicharangoka8@gmail.com](mailto:saicharangoka8@gmail.com)**
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1uQD9h3zpfrq5UyNXNS8j62o5UnqoDHQv/view?usp=sharing)]([Resume](https://drive.google.com/file/d/1uQD9h3zpfrq5UyNXNS8j62o5UnqoDHQv/view?usp=sharing))
+- 📄 Know about my experiences [([Resume](https://drive.google.com/file/d/1uQD9h3zpfrq5UyNXNS8j62o5UnqoDHQv/view?usp=sharing))
 
 - ⚡ Fun fact **I love solving algorithmic problems and experimenting with AI!**
 
